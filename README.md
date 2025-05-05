@@ -1,19 +1,19 @@
 <!-- 🎨 Background Image -->
 <img src="https://github.com/HackThePath/Assets/blob/main/Aspiring%20Cybersecurity%20Analyst.png?raw=true" width="100%" alt="Cybersecurity Banner">
 
-## 👩‍💻 About Me
+##  About Me
 
 ### Hi there, I'm Karishma Ravindran 👋  
 **BCA Graduate | Aspiring Cybersecurity Analyst | Passionate Learner**
 
-- 🎓 BCA graduate from SJR College for Women, Bangalore – 9.0 CGPA  
-- 🛡️ Building strong foundations in **Cybersecurity** with hands-on tools  
-- 🧠 Preparing for **CompTIA Security+** and completing labs on **TryHackMe**  
-- 💼 Interested in **Ethical Hacking** and **SIEM analysis**  
+-  BCA graduate from SJR College for Women, Bangalore – 9.0 CGPA  
+- 🛡 Building strong foundations in **Cybersecurity** with hands-on tools  
+-  Preparing for **CompTIA Security+** and completing labs on **TryHackMe**  
+-  Interested in **Ethical Hacking** and **SIEM analysis**  
 
 ---
 
-## 🧰 My Cybersecurity Toolkit
+##  My Cybersecurity Toolkit
 
 - 🔧 [Cybersecurity Tools](https://github.com/HackThePath/Cybersecurity-Tools) – Splunk, Nmap, VirusTotal  
 - 📁 [Projects](https://github.com/HackThePath/Projects-) – Phishing Email Analysis, Log Analysis  
@@ -21,7 +21,7 @@
 
 ---
 
-## 📫 Contact Me
+##Contact Me
 
 - 📧 Email: [karishmaravi.s2508@gmail.com](mailto:karishmaravi.s2508@gmail.com)  
 - 📄 [Resume (PDF)](KR_Updated.pdf)  
