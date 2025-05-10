@@ -21,7 +21,7 @@
 
 ---
 
-##Contact Me
+## Contact Me
 
 - 📧 Email: [karishmaravi.s2508@gmail.com](mailto:karishmaravi.s2508@gmail.com)  
 - 📄 [Resume (PDF)](KR_Updated.pdf)  
