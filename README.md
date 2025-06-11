@@ -1,5 +1,5 @@
 <!-- 🎨 Background Image -->
-<img src="https://github.com/HackThePath/Assets/blob/main/Aspiring%20Cybersecurity%20Analyst.png?raw=true" width="100%" alt="Cybersecurity Banner">
+<img src="https://github.com/HackThePath/Data/blob/8a69dfb3c953266e45ab584507b2e0516498bfec/Banner.png">
 
 ##  About Me
 
