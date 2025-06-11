@@ -19,6 +19,3 @@
 
 ---
 
-## ✨ Fun Fact
-
-> I believe **discipline and curiosity** are the best combo to grow fast — and I'm building my path, one commit at a time
