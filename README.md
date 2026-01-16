@@ -32,8 +32,3 @@ My goal is simple: let my work, learning, and consistency speak for my skills.
 - Case studies with problem statements and insights
 - Step-by-step project documentation
 - Interview preparation material by skill
-
----
-
-
-g in public. Building skill by skill. Becoming a Data Scientist.*
