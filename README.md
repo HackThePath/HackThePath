@@ -4,12 +4,12 @@
   <img src="https://github.com/HackThePath/Images/blob/aa156baa85785f330083fc3ce9493a42642c7a6b/github%20banner%20image.png" />
 </p>
 
-## About Me 👋
+## About Me👋
 
-I enjoy turning raw data into meaningful insights by breaking down problems and solving them step-by-step.
-This GitHub documents my journey of learning Data Analytics and Data Science through practical problem solving and real project work.
+I enjoy turning raw data into meaningful insights by breaking down problems & solving them step-by-step.
+This GitHub documents my journey of learning Data Analytics & Data Science through practical problem solving & real project work.
 
-Instead of just learning concepts, I focus on **applying tools, thinking through business problems, and documenting the full process clearly.**
+Instead of just learning concepts, I focus on **applying tools, thinking through business problems & documenting the full process clearly.**
 
 ---
 
@@ -41,9 +41,9 @@ These repositories focus on **building strong foundations in individual tools us
 
 Examples include:
 
-* **MySQL** → Case studies and analytical queries
-* **Python** → Data cleaning, EDA, and analysis
-* **Excel / Power BI** → Data analysis and visualization
+* **MySQL** → Case studies & analytical queries
+* **Python** → Data cleaning, EDA & analysis
+* **Excel / Power BI** → Data analysis & visualization
 
 Each skill project contains:
 
@@ -54,7 +54,7 @@ Each skill project contains:
 
 ---
 
-## What You’ll Find Here 📌
+## 📌What You’ll Find Here 
 
 * End-to-end data analysis projects
 * Tool-based case studies (SQL, Python, Excel, etc.)
@@ -64,4 +64,4 @@ Each skill project contains:
 
 ---
 
-This repository is essentially a **public portfolio of my learning, projects, and analytical thinking process.**
+This repository is essentially a **Public portfolio of my Learning, Projects & Analytical Thinking Process.**
